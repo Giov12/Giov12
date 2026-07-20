@@ -1,5 +1,5 @@
 ## Gio Madrigal
-Hello, I am a bioinformatian who enjoys programming and answering hard biological problems. I received my Ph.D. from the University of Illinois Urbana-Champaign under the guidance of Dr. Julian Catchen, where I learned about algorithms and data structures.
+Hello, I am a bioinformatian who enjoys programming and answering hard biological problems. I received my Ph.D. from the University of Illinois Urbana-Champaign under the guidance of Dr. Julian Catchen, where I built a couple of bioinformatic software and conducted a bunch of genomic analyses.
 
 ## Contact Information
 Giovanni.madrigal12@yahoo.com
